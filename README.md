@@ -79,4 +79,4 @@ We use Crowdin for translations. Visit [StarkNet Website on Crowdin](https://sta
 3.  Start translating the strings in the translation editor.
 4.  Save your changes and submit them for review.
 
-We appreciate all contributions! Your translations will help make the StarkNet website more accessible to people around the world.
+We appreciate all contributions! Your translations will help make the StarkNet website more accessible to people around the world. Update 
